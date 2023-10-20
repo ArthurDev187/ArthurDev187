@@ -12,4 +12,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: The Python's name from the python language doesn't make any reference to the snake.
 -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArthurDev187&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArthurDev187&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurDev187&hide_progress=true&theme=radical)
