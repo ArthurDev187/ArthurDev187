@@ -21,6 +21,8 @@
     * Zelds Tears of the kingdom
     * Super Mario Wonder/ Odissey
     * Spiderman 2 PS5
+    * God of war
+    * Elden Ring
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurDev187&hide_progress=true&theme=algolia)
 
