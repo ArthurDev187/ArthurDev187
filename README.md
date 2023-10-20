@@ -12,5 +12,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: The Python's name from the python language doesn't make any reference to the snake.
 -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArthurDev187)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArthurDev187&show icons=true)](https://github.com/anuraghazra/github-readme-stats)
