@@ -21,9 +21,6 @@
     * Zelds Tears of the kingdom
     * Super Mario Wonder/ Odissey
     * Spiderman 2 PS5
-    * God of war
-    * Forza Horizon 5
-    * Elden Ring
   
       
 
