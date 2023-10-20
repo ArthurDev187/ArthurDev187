@@ -22,5 +22,5 @@
     * Super Mario Wonder/ Odissey
     * Spiderman 2 PS5
   
-      
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurDev187&hide_progress=true&theme=algolia)
 
