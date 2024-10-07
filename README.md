@@ -1,9 +1,8 @@
 ### Hi there 👋                                                      
 
-- 🌱 I’m currently learning Pytho
+- 🌱 I’m currently learning Python
 - 💬 Ask me about Python
 - 📫 How to reach me: arthurr.rodrigues187@gmail.com
-- 😄 Pronouns: he / his... In portuguese: Ele / Dele
 - ⚡ Fun fact: The Python's name from the python language doesn't make any reference to the snake.
 
 - Now I'm gonna tell you what song/ singer/ band you need to listen to 🎶:
@@ -19,9 +18,8 @@
 - Here some 🎮 Games:
     * Zelds Tears of the kingdom
     * Super Mario Wonder/ Odissey
-    * Spiderman 2 PS5
-    * God of war
     * Elden Ring
+      
 <div style="display: inline_block"><br>
    <img align="center" alt="Arthur-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
    <img align="center" alt="Arthur-django" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">
